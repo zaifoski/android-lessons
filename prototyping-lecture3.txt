@@ -1,0 +1,86 @@
+-----------------------
+-----------------------
+25/02/2016
+LEZIONE 3: PROTOTYPE
+Ghosh
+-----------------------
+-----------------------
+
+design -> develop -> deliver
+
+UI: Aspetto + UX: come ci si interagisce
+
+based on target device you must change interaction style
+
+ES: alarm -> simple
+
+fail cheap, quick, often => prototype before you build
+
+prototype = testable early version of app. at first, as simple as possible
+
+sw architecture: take requirements, blueprint, model, prototype, ...
+                 a lot of feedback & iteraction of above
+                 build
+                 es. sagrada familia
+                 
+sw prototype -> paper, give it to users
+
+WHY PROTOTYPE:
+- how users will react
+- how they will interact with app,
+- validate assumptions
+- to compare alternatives
+
+Know who your users are and how they plan to use your application
+=> talk to the users through prototypes.
+
+Scrumptious.
+
+prototype -> feedback -> validate or modify
+
+TECHNIQUES:
+- paper
+    have representative users interact with the paper version
+    =) very easy to get negative feedback
+    =) requires minimum version
+    =( not so intuitive for users
+- wireframes and page schematics. HTML wireframes
+    =) lo posso displayare sull'effettivo dispositivo
+    =) però è più realistico per user
+    =) clicchi e funziona
+    =( swipe, drag and drop ecc non funziona
+    =( more effort than paper
+- interactive prototypes
+
+TOOLS
+
+"pencil project" -> free
+
+"proto", "marvel" -> browser
+ 
+"pixate" -> now part of google, similar to marvel
+ 
+"Justinmind" -> 30 days trial version oppure free version
+             -> drag drop staff
+             -> At a certain point: adobe/photoshop/skatch: I can import
+
+"Marvel"
+
+"pop" / "invisionapp" -> simplicity of paper prototyping and make it interactive
+
+-----------------------
+COMPITI:
+-----------------------
+
+Shopping cart application.
+e.g.: can tell you which shop you go to that is less expensive
+e.g.: social, se hai coinquilini ti dice le cose che tutti hanno messo
+e.g.: smart fridge
+
+1° passo: cercare le existing shopping carts applications e vedere cosa offrono
+
+
+
+
+
+
