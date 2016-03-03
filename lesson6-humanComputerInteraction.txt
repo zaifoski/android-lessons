@@ -1,0 +1,181 @@
+-----------------------
+-----------------------
+03/03/2016
+LESSON 6: User Interface, User Interaction and Product Design
+prof. Giuseppe Riccardi
+-----------------------
+-----------------------
+
+-----------------------
+Flat Design - Material Design
+-----------------------
+Flat Design = come arrangiare gli oggetti in spazio visivo, comune a molti sistemi operativi (Windows 8, Android, IOs7), che influenzerà anche la funzionalità. Si usavano oggetti reali per astrarli, es. librerie. Adesso più astratto.
+
+-----------------------
+Product Design
+-----------------------
+- Parto da: cosa voglio costruire.
+- Difficile perché spesso i prodotti sono risultato di evoluzioni incrementali (es. dal telefono fisso allo smartphone)
+- Design and Development -> Product <-> User
+- User: es l'aspirapolvere roomba deve convivere in un ambiente, dove ci potrebbero ad es. essere animali domestici
+
+-----------------------
+UIs
+-----------------------
+- GraphicalUI = interfacce classiche
+- VoiceUI = interazione tramite la voce, che è quello che facciamo normalmente
+- MultimodalUI = coordinate, alcune costruite a tavolino altri già utilizzati (es. scorrere le pagine come quelle di un giornale)
+...
+- Interfaccia = soglia che attraversiamo quando interagiamo con gli oggetti, ciò che permette di interagire
+- Interazione = esperienza
+- Le macchine possono essere antropomorfizzate
+- Capire come un'interfaccia viene recepita dagli utenti, per poter poi validare delle ipotesi
+- Dovremo contestualizzare i nuovi sistemi nella situazione. Es. sistema della navigazione della macchina ci serve per guidare e telefonare, ma senza distrarmi. Clicks, gestures, parole, ... devono essere funzionali a portare a termine il task con successo
+- Non solo macchina-utente, può essere multiutente, es. tavolo interattivo
+
+-----------------------
+Why User Interface / Interaction Design
+-----------------------
+- Il ruolo deve essere presente per garantire il successo del prodotto
+- 9 marzo: User Interaction guidelines, App Design Process, Examples
+  settimana successiva: progetto
+
+-----------------------
+Human - Computer Interaction
+-----------------------
+- Come Human - Human Interaction, però dobbiamo ricostruire questa interazione.
+- Utilizzare voice user interface, ma solo dove ha senso!
+- Output: voce, per es. leggere i messaggi mentre sto guidando invece che mettermeli a schermo. Es. navigatori
+
+-----------------------
+De-Constructing Communication
+-----------------------
+- Tipo di device, pensare a ciò che è più utilizzabile su quel tipo di device: guardare alla complessità e alla specificità dei compiti che devo fare, es lo smartwatch può essere utile per cambiare canzone mentre faccio jogging, ma non può riprodurre tutte le funzionalità dello smartphone + la vibrazione è migliore del suono come alert
+
+-----------------------
+Human Computer Interaction Goals
+-----------------------
+- Useful, Usable & Used
+  !non sempre è possibile o necessario massimizzare tutte queste metriche, ad es. il cruscotto di un aereo non è molto usabile, sarà l'utente a doversi adattare
+  ?quale di queste metriche sarà più rilevante nel mio progetto?
+- altre metriche: - fun, es gioco
+                  - estetica
+
+-----------------------
+User Interface Design
+-----------------------
+- In precedenza era una disciplina a cui si accostavano maggiormente psicologi e scienziati cognitivi, in quanto richiede creatività, esplorare, comprensione e proiezione del comportamento umano
+- Reinventare cose vecchissime, es l'orologio.
+  =( Difficile, perché abbiamo già delle aspettative: bisogna cambiare le aspettative degli utenti. Gli smartwatch sono anni che cercano di intrudurli ma non sono mai decollati. 
+  =) Realizzarli è relativamente semplice grazie agli strumenti sw e hw a disposizione => esplora, sii creativo!
+- Creatività spesso è reinventare. Es la comunicazione: noi parliamo a voce, usiamo bigliettini, tramite email, ... è una metafora che è lì da secoli ed è stata continuamente reinventata. Ad esempio posso cercare di migliorarla per certi gruppi di persone.
+- per un problema ci possono essere più soluzioni. Alcune si possono scartare a priori perché non funzioneranno, altre devono essere validate.
+
+-----------------------
+Artifact may require
+-----------------------
+- Artefatto nasce da un insieme di competenze che includono
+  - la componente ingegneristica (hw e sw),
+  - scientifica (spiegare il perché sono possibili, es l'interfaccia vocale è possibile perché la macchina ha acquisito la capacità di ascoltare e capire, almeno in parte),
+  - estetica
+- L'obiettivo può essere solo un gruppo di utenti. Ad esempio se è rivolto ad utenti che ne hanno assolutamente bisogno può non essere bello né usabile
+- La soluzione non è unica, né viene trovata istantaneamente:
+  approssimazioni all'interno di un ciclo produttivo
+  quando la soluzione sarà stabile sarà quella finale
+  Problema: come faccio a sapere quando è stabile?
+- Es. mouse: ormai tutti danno per scontata la funzionalità, perciò si propongono ad esempio
+      mouse per piedi,
+      mouse ergonomici,
+      mouse impermeabili,
+      mouse discreti (esteticamente)
+- Interfaccia minimalista è meglio che esporre troppe funzionalità all'utente rendendola difficile all'utilizzo
+- L'utente deve sforzarsi il meno possibile per reimparare l'interfaccia
+
+-----------------------
+Putting the USERS in the Design of UI
+-----------------------
+- Es beta users: parte del processo di costruzione avviene all'esterno dell'azienda.
+- Oppure può rientrare durante il processo. Progetto: cosa avremo fatto per includere l'utente?
+- Usability Testing: è usabile? Ottenere dai potenziali utenti dei feedback.
+- Quanti ne devo coinvolgere?
+  Tradeoff: Più ne coinvolgo più sarà accurato, ma più sarà costoso.
+- Quando e come li coinvolgo?
+  Non posso chiedere cosa vogliono, perché cambieranno idea ora che esce il prodotto (~ S.Jobs).
+
+-----------------------
+UI Design Principles
+-----------------------
+- Si tratta di linee guida
+- Dovrebbero guidarvi per arrivare verso l'equilibrio (soluzione tra risorse, competenze, obiettivi e utenti)
+- Permettono di non commettere errore drammatici, soprattutto all'inizio
+- Ci permettono di tenere conto di cose che non bisogna fare, per non riscoprirle
+- Sono ambigue, infatti permettono soluzioni multiple, e apparentemente conotradditorie, in base a quali aspetti accentuano maggiormente
+
+-----------------------
+Schneiderman 1987
+-----------------------
+- Strive for Consistency -
+  Cercare gesti universali, ad esempio quello di sfogliare le pagine.
+  Tener presente il contesto delle altre interazioni, l'utente non può reimparare un modo diverso di utilizzo solo per utilizzare la mia interfaccia.
+
+- Cater to Universal Usability -
+  Riprenderli da altri ambiti o scoprirne di nuovi.
+
+- Offer Informative Feedback -
+  Ad esempio sto prenotando il viaggio, al momento di pagare devo poter ancora vedere cosa sto comprando. (Da aggiungere al prototipo del gas nella pagina di pagamento!!!!!)
+  Conferma: "La tua prenotazione è andata a termine"
+  Informativo: che non sia inutile.
+  
+- Design Tasks Flows to yield closure -
+  Dipende dal contesto!
+  Es. faccio la transazione e ricevo feedback che è andato a termine e a buon fine. Invece in una chat non c'è una chiusura.
+
+- Prevent Errors -
+  Soprattutto per l'utente che inizia ad usare l'app, infatti gli errori potrebbero pregiudicarne l'utilizzo.
+  Gli errori che non possono essere evitati vanno gestiti: ad es.
+    - sbaglia la data di partenza, se ne accorge verso la fine, poterlo modificare senza dover tornare indietro di mezz'ora.
+    - gestire il "Forgot password"
+  Per prevenire gli errori bisogna saper prevedere il comportamento umano. Es. la nostra "cache" può tenere tipicamente dai 7 ai 10 numeri => non ci si può aspettare che l'utente si ricordi a memoria il numero di carta di credito e bisogna comportarsi di conseguenza.
+    
+- Permit Easy Reversal of Actions -
+  Poter fare l'undo.
+  
+- Make Users feel They are in Control -
+  Significa che devono poter fare le cose in maniera naturale.
+  Riscrivere: In certi casi l'iniziativa è della macchina, in altri dell'utente: iniziativa mista.
+  
+- Minimize Short-Term Memory Load -
+  Minimizzare carichi di lavoro sull'utente.
+  Non solo per stare nei limiti dell'utente, ma anche per non sovraccaricarlo.
+
+-----------------------
+Nielsen and Molich 1990
+-----------------------
+
+- Consistency and Standards -
+
+- Visibility of System Status -
+  Come cerchiamo di interpretare l'umano (ad es. con sopracciglia, guance ecc), la macchina deve mostrare stati interpretabili dall'uomo, es. la macchina mostra se ha capito o meno.
+
+- Match between System and Real World -
+
+- User Control and Freedom -
+  L'utente può prendere il controllo ma può anche essere guidato quando serve.
+  
+- Error Prevention -
+
+- Flexibility and Efficiency of Use -
+
+- Aesthetics and Minimalist Design -
+  A seconda del tipo di prodotto l'estetica può avere un'altissimo rilievo. Il design minimalista può aumentare la produttività di certi processi.
+  
+- Help Users Recognize, Diagnose and Recover from Errors -
+  User attivo in diagnostica di errore.
+  
+- Provide Online Documentation -
+  Non sempre! Ma in certi casi molto utile.
+  
+  
+Libro consigliato "Designing with design in mind"  
+  
+Chat: dividere per argomento
